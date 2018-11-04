@@ -1,0 +1,92 @@
+[
+    {
+        "rank": "1.",
+        "naslov": "The Dark Side Of The Moon",
+        "avtor": "Pink Floyd",
+        "leto": 1973,
+        "ocena": 92,
+        "st_ocen": 4126,
+        "st_komentarjev": 458
+    },
+    {
+        "rank": "2.",
+        "naslov": "OK Computer",
+        "avtor": "Radiohead",
+        "leto": 1997,
+        "ocena": 92,
+        "st_ocen": 4352,
+        "st_komentarjev": 702
+    },
+    {
+        "rank": "3.",
+        "naslov": "Abbey Road",
+        "avtor": "The Beatles",
+        "leto": 1969,
+        "ocena": 91,
+        "st_ocen": 3523,
+        "st_komentarjev": 370
+    },
+    {
+        "rank": "4.",
+        "naslov": "Revolver",
+        "avtor": "The Beatles",
+        "leto": 1966,
+        "ocena": 91,
+        "st_ocen": 3550,
+        "st_komentarjev": 391
+    },
+    {
+        "rank": "5.",
+        "naslov": "Wish You Were Here",
+        "avtor": "Pink Floyd",
+        "leto": 1975,
+        "ocena": 91,
+        "st_ocen": 3039,
+        "st_komentarjev": 241
+    },
+    {
+        "rank": "6.",
+        "naslov": "Sgt. Pepper's Lonely Hearts Club Band",
+        "avtor": "The Beatles",
+        "leto": 1967,
+        "ocena": 90,
+        "st_ocen": 3567,
+        "st_komentarjev": 385
+    },
+    {
+        "rank": "7.",
+        "naslov": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+        "avtor": "David Bowie",
+        "leto": 1972,
+        "ocena": 90,
+        "st_ocen": 2630,
+        "st_komentarjev": 230
+    },
+    {
+        "rank": "8.",
+        "naslov": "Led Zeppelin IV",
+        "avtor": "Led Zeppelin",
+        "leto": 1971,
+        "ocena": 90,
+        "st_ocen": 3142,
+        "st_komentarjev": 239
+    },
+    {
+        "rank": "9.",
+        "naslov": "To Pimp A Butterfly",
+        "avtor": "Kendrick Lamar",
+        "leto": 2015,
+        "ocena": 90,
+        "st_ocen": 1479,
+        "st_komentarjev": 280
+    },
+    {
+        "rank": "10.",
+        "naslov": "In Rainbows",
+        "avtor": "Radiohead",
+        "leto": 2007,
+        "ocena": 89,
+        "st_ocen": 2960,
+        "st_komentarjev": 321
+    }
+]

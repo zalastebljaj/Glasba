@@ -2,6 +2,7 @@ import csv
 import re
 import os
 import requests
+import json
 
 BEA_url = 'https://www.besteveralbums.com/topratedstats.php?o=album'
 BEA_directory = 'glasba_strani'
@@ -16,9 +17,9 @@ vzorec = re.compile(
     r'name="\d*"><b>(?P<rank>\d+\.)</b></a><br.*?'
     r'album\."\shref="thechart.php\?a=\d*">(?P<naslov>.*?)</a>.*?'
     r'href="thechart.php\?b=\d*">(?P<avtor>.*?)</a></t.*?'
-    r'Year of Release:.*?>(?P<leto>\d+)<.*?'
-    r'&nbsp;(?P<ocena>\d+)/100 \((?P<št_ocen>.+?) votes\).*?'
-    r'alt=""> (?P<št_komentarjev>\d+) comments</a>',
+    r'Year of Release:.*?>(?P<leto>\d{4})<.*?'
+    r'&nbsp;(?P<ocena>\d+)/100 \((?P<st_ocen>.+?) votes\).*?'
+    r'alt=""> (?P<st_komentarjev>\d+) comments</a>',
     re.DOTALL
 )
 
@@ -30,28 +31,28 @@ vzorec = re.compile(
 #     for ujemanje in re.finditer(vzorec, vsebina, re.DOTALL):
 #         print('{}'.format(ujemanje.group(1)), file=dat)
 
-with open('albumi.csv', 'w', encoding='utf8') as datoteka:
-    writer = csv.writer(datoteka)
-    writer.writerow(
-            ('rank',
-             'naslov',
-             'avtor',
-             'leto',
-             'ocena',
-             'št_ocen',
-             'št_komentarjev')
+
+def pocisti_podatke(podatki):
+    podatki['leto'] = int(podatki['leto'])
+    podatki['ocena'] = int(podatki['ocena'])
+    podatki['st_ocen'] = int(podatki['st_ocen'].replace(',', ''))
+    podatki['st_komentarjev'] = int(podatki['st_komentarjev'])
+    return podatki
+
+podatki_filmov = []
+with open('albumi.csv', 'w', encoding='utf8') as csv_datoteka:
+    writer = csv.DictWriter(
+        csv_datoteka,
+        ['rank', 'naslov', 'avtor', 'leto',
+         'ocena', 'st_ocen', 'st_komentarjev']
     )
+    writer.writeheader()
     for ujemanje in vzorec.finditer(vsebina):
-        print(ujemanje.groupdict())
-        writer.writerow(
-                (ujemanje.group(1),
-                 ujemanje.group(2),
-                 ujemanje.group(3),
-                 ujemanje.group(4),
-                 ujemanje.group(5),
-                 ujemanje.group(6),
-                 ujemanje.group(7))
-        )
+        podatki_filma = pocisti_podatke(ujemanje.groupdict())
+        writer.writerow(podatki_filma)
+        podatki_filmov.append(podatki_filma)
+with open('albumi.json', 'w') as json_datoteka:
+    json.dump(podatki_filmov, json_datoteka, indent=4, ensure_ascii=False)
 
 
 def url_to_string(url):
