@@ -1,11 +1,1001 @@
 rank,naslov,avtor,leto,ocena,st_ocen,st_komentarjev
-1.,The Dark Side Of The Moon,Pink Floyd,1973,92,4126,458
-2.,OK Computer,Radiohead,1997,92,4352,702
-3.,Abbey Road,The Beatles,1969,91,3523,370
-4.,Revolver,The Beatles,1966,91,3550,391
-5.,Wish You Were Here,Pink Floyd,1975,91,3039,241
-6.,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1967,90,3567,385
-7.,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,David Bowie,1972,90,2630,230
-8.,Led Zeppelin IV,Led Zeppelin,1971,90,3142,239
-9.,To Pimp A Butterfly,Kendrick Lamar,2015,90,1479,280
-10.,In Rainbows,Radiohead,2007,89,2960,321
+1.,The Dark Side Of The Moon,Pink Floyd,1973,92,4132,461
+2.,OK Computer,Radiohead,1997,92,4357,702
+3.,Abbey Road,The Beatles,1969,91,3530,371
+4.,Revolver,The Beatles,1966,91,3558,392
+5.,Wish You Were Here,Pink Floyd,1975,91,3044,242
+6.,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1967,90,3576,386
+7.,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,David Bowie,1972,90,2636,231
+8.,Led Zeppelin IV,Led Zeppelin,1971,90,3145,240
+9.,To Pimp A Butterfly,Kendrick Lamar,2015,90,1483,281
+10.,Kid A,Radiohead,2000,89,3434,475
+11.,In Rainbows,Radiohead,2007,89,2964,322
+12.,Kind Of Blue,Miles Davis,1959,89,1704,122
+13.,The Velvet Underground And Nico,The Velvet Underground And Nico,1967,89,2744,283
+14.,In The Court Of The Crimson King,King Crimson,1969,89,1666,161
+15.,Highway 61 Revisited,Bob Dylan,1965,89,2213,176
+16.,The Beatles (The White Album),The Beatles,1968,88,2976,267
+17.,98.12.28 Otokotachi No Wakare,フィッシュマンズ [Fishmans],1999,88,114,12
+18.,"Good Kid, M.A.A.D City",Kendrick Lamar,2012,88,1402,158
+19.,Funeral,Arcade Fire,2004,88,2915,340
+20.,Doolittle,Pixies,1989,88,2258,234
+21.,Rubber Soul,The Beatles,1965,88,2581,202
+22.,Pet Sounds,The Beach Boys,1966,88,2497,264
+23.,The Queen Is Dead,The Smiths,1986,88,2192,209
+24.,A Moon Shaped Pool,Radiohead,2016,88,1459,223
+25.,Blonde On Blonde,Bob Dylan,1966,88,1875,136
+26.,In The Aeroplane Over The Sea,Neutral Milk Hotel,1998,88,2244,359
+27.,Hunky Dory,David Bowie,1971,88,1810,115
+28.,The Bends,Radiohead,1995,88,3076,263
+29.,Animals,Pink Floyd,1977,87,2027,136
+30.,Are You Experienced,The Jimi Hendrix Experience,1967,87,1949,129
+31.,Led Zeppelin II,Led Zeppelin,1969,87,2114,130
+32.,Pink Moon,Nick Drake,1972,87,1355,116
+33.,The Doors,The Doors,1967,87,2195,160
+34.,London Calling,The Clash,1979,87,2486,213
+35.,Blood On The Tracks,Bob Dylan,1975,87,1660,121
+36.,A Love Supreme,John Coltrane,1965,87,1069,67
+37.,Unknown Pleasures,Joy Division,1979,87,1739,147
+38.,Remain In Light,Talking Heads,1980,87,1629,129
+39.,Nevermind,Nirvana,1991,86,3441,357
+40.,Who's Next,The Who,1971,86,2021,160
+41.,The Wall,Pink Floyd,1979,86,2704,203
+42.,The Black Saint And The Sinner Lady,Charles Mingus,1963,86,721,51
+43.,Marquee Moon,Television,1977,86,1406,109
+44.,Led Zeppelin,Led Zeppelin,1969,86,1979,100
+45.,Illinois,Sufjan Stevens,2005,86,1418,129
+46.,Carrie & Lowell,Sufjan Stevens,2015,86,1025,117
+47.,1967-1970,The Beatles,1973,86,381,19
+48.,The Velvet Underground,The Velvet Underground,1969,86,1218,89
+49.,Bringing It All Back Home,Bob Dylan,1965,86,1290,76
+50.,Illmatic,Nas,1994,86,1126,77
+51.,Loveless,My Bloody Valentine,1991,86,1843,257
+52.,Ágætis Byrjun,Sigur Rós,1999,86,1300,113
+53.,Disintegration,The Cure,1989,86,1435,104
+54.,After The Gold Rush,Neil Young,1970,86,1354,95
+55.,Sticky Fingers,The Rolling Stones,1971,86,1425,87
+56.,Lift Yr. Skinny Fists Like Antennas To Heaven,Godspeed You! Black Emperor,2000,86,948,82
+57.,Long Season,フィッシュマンズ [Fishmans],1996,86,196,17
+58.,Electric Ladyland,The Jimi Hendrix Experience,1968,86,1498,81
+59.,MTV Unplugged In New York,Nirvana,1994,86,1534,75
+60.,Low,David Bowie,1977,86,1519,129
+61.,Exile On Main St.,The Rolling Stones,1972,86,1848,160
+62.,The Smile Sessions,The Beach Boys,2011,86,616,55
+63.,In A Silent Way,Miles Davis,1969,86,611,31
+64.,Rumours,Fleetwood Mac,1977,86,1865,142
+65.,Closer,Joy Division,1980,86,1459,90
+66.,The Stone Roses,The Stone Roses,1989,86,1767,168
+67.,★ (Blackstar),David Bowie,2016,86,1134,108
+68.,Madvillainy,Madvillain,2004,86,738,57
+69.,Let It Bleed,The Rolling Stones,1969,86,1611,93
+70.,Paranoid,Black Sabbath,1970,86,1507,95
+71.,Red,King Crimson,1974,86,675,51
+72.,Is This It,The Strokes,2001,85,2324,231
+73.,Magical Mystery Tour,The Beatles,1967,85,1920,128
+74.,Yankee Hotel Foxtrot,Wilco,2002,85,1517,143
+75.,Hatful Of Hollow,The Smiths,1984,85,724,37
+76.,Station To Station,David Bowie,1976,85,1054,57
+77.,Forever Changes,Love,1967,85,1241,116
+78.,Close To The Edge,Yes,1972,85,1016,86
+79.,Astral Weeks,Van Morrison,1968,85,1304,102
+80.,Souvlaki,Slowdive,1993,85,664,61
+81.,Houses Of The Holy,Led Zeppelin,1973,85,1555,90
+82.,Surfer Rosa,Pixies,1988,85,1428,92
+83.,Innervisions,Stevie Wonder,1973,85,944,44
+84.,Songs Of Leonard Cohen,Leonard Cohen,1967,85,802,29
+85.,What's Going On,Marvin Gaye,1971,85,1426,103
+86.,Lonerism,Tame Impala,2012,85,1412,148
+87.,My Beautiful Dark Twisted Fantasy,Kanye West,2010,85,1648,212
+88.,The Low End Theory,A Tribe Called Quest,1991,85,791,50
+89.,1,The Beatles,2000,85,500,33
+90.,The Suburbs,Arcade Fire,2010,85,2162,210
+91.,Odessey And Oracle,The Zombies,1968,85,993,88
+92.,Spiderland,Slint,1991,85,878,96
+93.,Harvest,Neil Young,1972,85,1302,69
+94.,Rain Dogs,Tom Waits,1985,85,1001,63
+95.,Siamese Dream,The Smashing Pumpkins,1993,85,1448,120
+96.,Five Leaves Left,Nick Drake,1969,85,780,34
+97.,1962-1966,The Beatles,1973,84,330,15
+98.,Physical Graffiti,Led Zeppelin,1975,84,1563,100
+99.,Tago Mago,Can,1971,84,758,62
+100.,Cosmo's Factory,Creedence Clearwater Revival,1970,84,684,34
+101.,In Utero,Nirvana,1993,84,2038,137
+102.,Past Masters -  Volume Two,The Beatles,1988,84,327,14
+103.,Spirit Of Eden,Talk Talk,1988,84,700,44
+104.,Mingus Ah Um,Charles Mingus,1959,84,497,27
+105.,All Things Must Pass,George Harrison,1970,84,906,77
+106.,Dummy,Portishead,1994,84,1245,82
+107.,Homogenic,Björk,1997,84,977,70
+108.,F♯A♯∞,Godspeed You! Black Emperor,1997,84,532,39
+109.,Songs In The Key Of Life,Stevie Wonder,1976,84,884,53
+110.,Everybody Knows This Is Nowhere,Neil Young And Crazy Horse,1969,84,816,44
+111.,Meddle,Pink Floyd,1971,84,1416,77
+112.,Decade,Neil Young,1977,84,205,9
+113.,The King Of Rock'n'Roll: The Complete 50's Masters,Elvis Presley,1992,84,16,2
+114.,Daydream Nation,Sonic Youth,1988,84,1427,117
+115.,White Light/White Heat,The Velvet Underground,1968,84,1046,82
+116.,The Lonesome Crowded West,Modest Mouse,1997,84,686,51
+117.,Past Masters,The Beatles,1988,84,147,8
+118.,Chronicle - The 20 Greatest Hits,Creedence Clearwater Revival,1976,84,315,17
+119.,Sound Of Silver,LCD Soundsystem,2007,84,1037,58
+120.,Another Green World,Brian Eno,1975,84,745,40
+121.,Blue,Joni Mitchell,1971,84,1062,68
+122.,Bitches Brew,Miles Davis,1970,84,826,52
+123.,Bridge Over Troubled Water,Simon And Garfunkel,1970,84,1141,67
+124.,Laughing Stock,Talk Talk,1991,84,624,60
+125.,Weezer (The Blue Album),Weezer,1994,84,1436,109
+126.,Either/Or,Elliott Smith,1997,84,832,43
+127.,On The Beach,Neil Young,1974,84,690,42
+128.,Fun House,The Stooges,1970,84,794,54
+129.,Legend,Bob Marley & The Wailers,1984,84,816,46
+130.,Rust Never Sleeps,Neil Young And Crazy Horse,1979,84,644,30
+131.,Quadrophenia,The Who,1973,84,1028,86
+132.,The Moon & Antarctica,Modest Mouse,2000,84,988,79
+133.,Bryter Layter,Nick Drake,1971,84,640,54
+134.,Lovely Creatures: The Best Of Nick Cave And The Bad Seeds (1984-2014),Nick Cave And The Bad Seeds,2017,84,14,1
+135.,Beggars Banquet,The Rolling Stones,1968,84,1170,65
+136.,The Freewheelin' Bob Dylan,Bob Dylan,1963,84,1135,63
+137.,The Complete Studio Recordings,Led Zeppelin,1993,84,67,1
+138.,The Kinks Are The Village Green Preservation Society,The Kinks,1968,84,824,53
+139.,Turn On The Bright Lights,Interpol,2002,84,1204,98
+140.,Ege Bamyasi,Can,1972,84,489,18
+141.,Grace,Jeff Buckley,1994,84,1499,139
+142.,Automatic For The People,R.E.M.,1992,84,1669,137
+143.,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,1993,84,900,50
+144.,The Soft Bulletin,The Flaming Lips,1999,84,1182,99
+145.,Perfect From Now On,Built To Spill,1997,84,442,28
+146.,Liquid Swords,GZA,1995,84,430,41
+147.,Time Out,The Dave Brubeck Quartet,1959,84,493,23
+148.,Endtroducing.....,DJ Shadow,1996,84,805,43
+149.,You're Living All Over Me,Dinosaur Jr.,1987,84,504,28
+150.,Fragile,Yes,1971,84,755,44
+151.,Remasters,Led Zeppelin,1990,84,163,6
+152.,Beethoven: Symphonies Nos. 5 & 7,Carlos Kleiber,1995,84,16,0
+153.,Blonde,Frank Ocean,2016,84,627,56
+154.,Future Days,Can,1973,84,387,17
+155.,Two From The Vault,Grateful Dead,1992,84,13,0
+156.,John Lennon/Plastic Ono Band,John Lennon,1970,84,1050,97
+157.,Fear Of Music,Talking Heads,1979,84,753,33
+158.,Led Zeppelin III,Led Zeppelin,1970,84,1524,69
+159.,Blue Train,John Coltrane,1957,84,450,14
+160.,Surfer Rosa & Come On Pilgrim,Pixies,1988,84,236,9
+161.,"Crooked Rain, Crooked Rain",Pavement,1994,84,846,70
+162.,Pinkerton,Weezer,1996,84,1164,115
+163.,Moondance,Van Morrison,1970,84,875,58
+164.,Hounds Of Love,Kate Bush,1985,84,878,65
+165.,Axis: Bold As Love,The Jimi Hendrix Experience,1967,83,1033,44
+166.,Saturation III,Brockhampton,2017,83,271,17
+167.,The Glow Pt. 2,The Microphones,2001,83,518,44
+168.,Selling England By The Pound,Genesis,1973,83,875,60
+169.,Born To Run,Bruce Springsteen,1975,83,1537,102
+170.,If You're Feeling Sinister,Belle And Sebastian,1996,83,918,74
+171.,"Nuggets: Original Artyfacts From The First Psychedelic Era, 1965–1968",Various Artists,1972,83,97,6
+172.,Transformer,Lou Reed,1972,83,1155,74
+173.,You Made Me Realise,My Bloody Valentine,1988,83,195,24
+174.,Flower Boy,"Tyler, The Creator",2017,83,430,42
+175.,Violator,Depeche Mode,1990,83,969,67
+176.,Black Sabbath,Black Sabbath,1970,83,800,40
+177.,Yoshimi Battles The Pink Robots,The Flaming Lips,2002,83,1326,87
+178.,Slow Riot For New Zerø Kanada,Godspeed You! Black Emperor,1999,83,282,13
+179.,Grateful Dead (Skull & Roses),Grateful Dead,1971,83,24,2
+180.,Hot Rats,Frank Zappa,1969,83,700,44
+181.,Selected Ambient Works 85-92,Aphex Twin,1992,83,591,44
+182.,The Legend Of Zelda: Ocarina Of Time,Koji Kondo,1998,83,42,11
+183.,Otis Blue / Otis Redding Sings Soul,Otis Redding,1965,83,529,17
+184.,Modal Soul,Nujabes,2005,83,97,10
+185.,EP's 1988-1991,My Bloody Valentine,2012,83,127,7
+186.,#1 Record/Radio City,Big Star,1992,83,68,5
+187.,Songs Of Love And Hate,Leonard Cohen,1971,83,447,17
+188.,Trans-Europa Express,Kraftwerk,1977,83,663,36
+189.,"For Emma, Forever Ago",Bon Iver,2007,83,1173,93
+190.,Midnight Marauders,A Tribe Called Quest,1993,83,423,17
+191.,Best Of Bowie,David Bowie,2002,83,173,10
+192.,Teens Of Denial,Car Seat Headrest,2016,83,547,43
+193.,Substance,New Order,1987,83,354,30
+194.,Saturation II,Brockhampton,2017,83,290,17
+195.,The Beatles Box Set,The Beatles,1988,83,147,11
+196.,"Dick's Picks, Vol. 4: Fillmore East, New York, NY, 2/13-2/14/70",Grateful Dead,1996,83,28,0
+197.,Blur: The Best Of,Blur,2000,83,168,5
+198.,Live At Leeds,The Who,1970,83,519,31
+199.,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,1995,83,1410,133
+200.,Atrocity Exhibition,Danny Brown,2016,83,425,35
+201.,Master Of Puppets,Metallica,1986,83,1311,81
+202.,Greatest Hits,Queen,1981,83,302,22
+203.,Master Of Reality,Black Sabbath,1971,83,699,35
+204.,Murmur,R.E.M.,1983,83,1029,75
+205.,The Modern Lovers,The Modern Lovers,1976,83,442,20
+206.,L.A. Woman,The Doors,1971,83,1040,49
+207.,A Night At The Opera,Queen,1975,83,1446,103
+208.,Thick As A Brick,Jethro Tull,1972,83,598,32
+209.,Raw Power,The Stooges,1973,83,771,54
+210.,A Decade Of Steely Dan,Steely Dan,1985,83,41,2
+211.,The Smiths,The Smiths,1984,83,1065,68
+212.,Music For 18 Musicians,Steve Reich,1978,83,198,15
+213.,Acabou Chorare,Novos Baianos,1972,83,140,7
+214.,Velocity : Design : Comfort,Sweet Trip,2003,83,81,12
+215.,Skeleton Tree,Nick Cave And The Bad Seeds,2016,83,479,35
+216.,&quot;Heroes&quot;,David Bowie,1977,83,1077,59
+217.,"The Bootleg Series Vol. 4: Bob Dylan Live 1966, The &quot;Royal Albert Hall&quot; Concert",Bob Dylan,1998,83,266,13
+218.,Greatest Hits,Alice Cooper,1974,83,49,3
+219.,Electric Warrior,T. Rex,1971,83,615,32
+220.,Simon And Garfunkel's Greatest Hits,Simon And Garfunkel,1972,83,159,7
+221.,Louder Than Bombs,The Smiths,1987,83,489,20
+222.,The Complete In A Silent Way Sessions,Miles Davis,2001,83,34,1
+223.,Ghosts Of The Great Highway,Sun Kil Moon,2003,83,195,11
+224.,Purple Rain,Prince And The Revolution,1984,83,1144,86
+225.,Slanted & Enchanted,Pavement,1992,83,921,64
+226.,Die Mensch·Maschine [The Man-Machine],Kraftwerk,1978,83,510,13
+227.,Fleet Foxes,Fleet Foxes,2008,83,1261,73
+228.,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006,83,1824,164
+229.,Déjà Vu,"Crosby, Stills, Nash & Young",1970,83,639,36
+230.,Late Registration,Kanye West,2005,83,832,55
+231.,Elephant,The White Stripes,2003,83,1754,105
+232.,Ladies And Gentlemen We Are Floating In Space,Spiritualized,1997,83,696,53
+233.,Loaded,The Velvet Underground,1970,83,930,48
+234.,Changesbowie,David Bowie,1990,83,182,9
+235.,Boxer,The National,2007,83,934,73
+236.,Aladdin Sane,David Bowie,1973,83,923,58
+237.,The Lamb Lies Down On Broadway,Genesis,1974,83,661,50
+238.,On Fire,Galaxie 500,1989,83,427,30
+239.,You Forgot It In People,Broken Social Scene,2002,83,534,28
+240.,Hospice,The Antlers,2009,83,663,67
+241.,Mezzanine,Massive Attack,1998,83,920,47
+242.,...Like Clockwork,Queens Of The Stone Age,2013,83,832,63
+243.,Smash Hits,The Jimi Hendrix Experience,1968,83,62,4
+244.,Amnesiac,Radiohead,2001,83,1992,163
+245.,Kids See Ghosts,Kids See Ghosts,2018,83,385,39
+246.,Vespertine,Björk,2001,83,669,37
+247.,#1 Record,Big Star,1972,83,450,30
+248.,Tonight's The Night,Neil Young,1975,83,556,28
+249.,White Pepper,Ween,2000,82,107,4
+250.,Maggot Brain,Funkadelic,1971,82,468,29
+251.,Pink Flag,Wire,1977,82,562,36
+252.,Teen Dream,Beach House,2010,82,948,86
+253.,The Best Of Nick Cave And The Bad Seeds,Nick Cave And The Bad Seeds,1998,82,40,1
+254.,Leaves Turn Inside You,Unwound,2001,82,121,9
+255.,This Is Happening,LCD Soundsystem,2010,82,851,54
+256.,Strange Days,The Doors,1967,82,877,40
+257.,Summerteeth,Wilco,1999,82,500,32
+258.,Ride The Lightning,Metallica,1984,82,924,57
+259.,Arthur (Or The Decline And Fall Of The British Empire),The Kinks,1969,82,498,28
+260.,Spirited Away,Joe Hisaishi,2001,82,34,0
+261.,Moving Pictures,Rush,1981,82,927,65
+262.,Hot Rocks 1964–1971,The Rolling Stones,1971,82,193,6
+263.,The Hits/The B-Sides,Prince,1993,82,50,4
+264.,Songs For The Deaf,Queens Of The Stone Age,2002,82,1154,58
+265.,Soundtracks For The Blind,Swans,1996,82,294,21
+266.,We Got It From Here... Thank You 4 Your Service,A Tribe Called Quest,2016,82,381,21
+267.,You Won't Get What You Want,Daughters,2018,82,55,11
+268.,Getz/Gilberto,Stan Getz & João Gilberto,1964,82,357,22
+269.,"Sunshine Daydream (Veneta, Oregon 8/27/72)",Grateful Dead,2013,82,20,2
+270.,The Joshua Tree,U2,1987,82,1948,189
+271.,Giant Steps,John Coltrane,1960,82,420,14
+272.,Blade Runner,Vangelis,1994,82,105,1
+273.,Apostrophe ('),Frank Zappa,1974,82,288,12
+274.,Faust IV,Faust,1973,82,232,8
+275.,Live At Pompeii,Pink Floyd,1972,82,158,3
+276.,The Clash,The Clash,1977,82,975,59
+277.,Talking Heads: 77,Talking Heads,1977,82,598,31
+278.,Aqualung,Jethro Tull,1971,82,710,39
+279.,Foxtrot,Genesis,1972,82,564,44
+280.,Keep It Like A Secret,Built To Spill,1999,82,352,28
+281.,Quebec,Ween,2003,82,135,11
+282.,Ten,Pearl Jam,1991,82,1822,140
+283.,At Folsom Prison,Johnny Cash,1968,82,755,35
+284.,Heaven Or Las Vegas,Cocteau Twins,1990,82,471,34
+285.,And I Feel Fine... The Best Of The I.R.S. Years 1982 - 1987 (SP.ED),R.E.M.,2006,82,22,1
+286.,Aja,Steely Dan,1977,82,648,42
+287.,Neon Bible,Arcade Fire,2007,82,1655,127
+288.,Let It Be,The Replacements,1984,82,689,58
+289.,Peel Slowly And See,The Velvet Underground,1995,82,83,10
+290.,1970-1975,Genesis,2008,82,29,1
+291.,Machine Head,Deep Purple,1972,82,734,37
+292.,The Piper At The Gates Of Dawn,Pink Floyd,1967,82,1510,87
+293.,Art Blakey And The Jazz Messengers,Art Blakey & The Jazz Messengers,1959,82,211,3
+294.,To Bring You My Love,P.J. Harvey,1995,82,388,20
+295.,Modern Vampires Of The City,Vampire Weekend,2013,82,1043,111
+296.,The Long Goodbye: LCD Soundsystem Live At Madison Square Garden,LCD Soundsystem,2014,82,44,1
+297.,Greatest Hits,Björk,2002,82,58,6
+298.,Europe '72,Grateful Dead,1972,82,105,2
+299.,Halcyon Digest,Deerhunter,2010,82,684,49
+300.,Way To Blue,Nick Drake,1994,82,43,2
+301.,Willy And The Poor Boys,Creedence Clearwater Revival,1969,82,416,18
+302.,The Yes Album,Yes,1971,82,478,30
+303.,Greatest Hits,Neil Young,2004,82,103,4
+304.,Aviary,Julia Holter,2018,82,30,4
+305.,Echoes: The Best Of Pink Floyd,Pink Floyd,2001,82,188,4
+306.,The Money Store,Death Grips,2012,82,670,58
+307.,Standing On A Beach - The Singles,The Cure,1986,82,145,9
+308.,The Mollusk,Ween,1997,82,304,20
+309.,Portrait Of A Legend 1951-1964,Sam Cooke,2003,82,114,13
+310.,Jack Johnson,Miles Davis,1971,82,171,9
+311.,Since I Left You,The Avalanches,2000,82,681,53
+312.,To Be Kind,Swans,2014,82,624,87
+313.,Leviathan,Mastodon,2004,82,209,7
+314.,Greatest Hits,Elton John,1974,82,123,5
+315.,Building Nothing Out Of Something,Modest Mouse,2000,82,158,4
+316.,21 Singles 1984-1998,The Jesus And Mary Chain,2002,82,26,1
+317.,Greatest Hits,Tom Petty & The Heartbreakers,1993,82,145,11
+318.,Twin Fantasy (Face To Face),Car Seat Headrest,2018,82,441,50
+319.,High Violet,The National,2010,82,1027,75
+320.,Run The Jewels 3,Run The Jewels,2016,82,274,24
+321.,Searching For Sugar Man (Original Motion Picture Soundtrack),Rodriguez,2012,82,25,2
+322.,The Köln Concert,Keith Jarrett,1975,82,180,4
+323.,Meat Is Murder,The Smiths,1985,82,945,52
+324.,Virtuoso,Joe Pass,1973,82,11,1
+325.,Discovery,Daft Punk,2001,82,1056,67
+326.,I Can Hear The Heart Beating As One,Yo La Tengo,1997,82,420,24
+327.,Live At Woodstock,Jimi Hendrix,1999,82,36,1
+328.,( ),Sigur Rós,2002,82,669,38
+329.,Dongs Of Sevotion,Smog,2000,82,45,3
+330.,Just Another Diamond Day,Vashti Bunyan,1970,82,177,11
+331.,How The West Was Won,Led Zeppelin,2003,82,289,12
+332.,Let It Be... Naked,The Beatles,2003,82,309,14
+333.,The College Dropout,Kanye West,2004,82,996,66
+334.,Paul's Boutique,Beastie Boys,1989,82,769,37
+335.,Merriweather Post Pavilion,Animal Collective,2009,82,1281,140
+336.,Sketches Of Spain,Miles Davis,1960,82,470,13
+337.,Exodus,Bob Marley & The Wailers,1977,82,624,36
+338.,Takk...,Sigur Rós,2005,82,674,31
+339.,Swordfishtrombones,Tom Waits,1983,82,552,25
+340.,Red House Painters (Rollercoaster),Red House Painters,1993,82,298,28
+341.,Rage Against The Machine,Rage Against The Machine,1992,82,1247,66
+342.,Ys,Joanna Newsom,2006,82,641,68
+343.,Construção,Chico Buarque,1971,82,126,5
+344.,Experience Hendrix: The Best Of Jimi Hendrix,The Jimi Hendrix Experience,1997,82,147,5
+345.,Violent Femmes,Violent Femmes,1983,82,723,59
+346.,More Songs About Buildings And Food,Talking Heads,1978,82,522,30
+347.,Metal Works '73-'93,Judas Priest,1993,82,20,0
+348.,Supergrass Is 10: The Best Of 94-04,Supergrass,2004,82,19,1
+349.,The Magnolia Electric Co.,Songs: Ohia,2003,82,127,6
+350.,Band Of Gypsys,Jimi Hendrix,1970,82,349,17
+351.,Mothership,Led Zeppelin,2007,82,171,5
+352.,Darkness On The Edge Of Town,Bruce Springsteen,1978,82,847,59
+353.,Lost In The Dream,The War On Drugs,2014,82,855,88
+354.,Something Else By The Kinks,The Kinks,1967,82,485,17
+355.,There's A Riot Goin' On,Sly & The Family Stone,1971,82,479,25
+356.,Peter Gabriel III,Peter Gabriel,1980,82,372,16
+357.,Hits,Joni Mitchell,1996,82,17,1
+358.,channel ORANGE,Frank Ocean,2012,82,913,93
+359.,My Generation - The Very Best Of The Who,The Who,1996,82,45,1
+360.,Run The Jewels 2,Run The Jewels,2014,82,576,30
+361.,A Deeper Understanding,The War On Drugs,2017,82,393,36
+362.,Abraxas,Santana,1970,82,467,24
+363.,The Downward Spiral,Nine Inch Nails,1994,82,845,59
+364.,Histoire De Melody Nelson,Serge Gainsbourg,1971,82,331,9
+365.,Hail To The Thief,Radiohead,2003,82,1847,138
+366.,"Power, Corruption And Lies",New Order,1983,82,634,39
+367.,Aquemini,OutKast,1998,82,507,25
+368.,Helplessness Blues,Fleet Foxes,2011,82,1027,91
+369.,The Epic,Kamasi Washington,2015,82,373,29
+370.,Metaphorical Music,Nujabes,2003,82,81,6
+371.,Singles Collection: The London Years,The Rolling Stones,1989,82,66,5
+372.,Music Has The Right To Children,Boards Of Canada,1998,82,541,50
+373.,Court And Spark,Joni Mitchell,1974,81,399,30
+374.,XO,Elliott Smith,1998,81,465,12
+375.,Repeater,Fugazi,1990,81,318,20
+376.,Imagine,John Lennon,1971,81,869,47
+377.,The Lord Of The Rings: The Fellowship Of The Ring,Howard Shore,2001,81,41,4
+378.,Here Come The Warm Jets,Brian Eno,1974,81,405,19
+379.,Labor Days,Aesop Rock,2001,81,77,3
+380.,Elliott Smith,Elliott Smith,1995,81,363,15
+381.,The Band,The Band,1969,81,747,31
+382.,Different Class,Pulp,1995,81,772,47
+383.,The Definitive Simon And Garfunkel,Simon And Garfunkel,1991,81,26,2
+384.,Green River,Creedence Clearwater Revival,1969,81,512,22
+385.,Stop Making Sense,Talking Heads,1984,81,493,21
+386.,Bookends,Simon And Garfunkel,1968,81,622,42
+387.,Let It Roll: Songs By George Harrison,George Harrison,2009,81,36,0
+388.,This Year's Model,Elvis Costello,1978,81,655,36
+389.,The Boatman's Call,Nick Cave And The Bad Seeds,1997,81,471,21
+390.,Untrue,Burial,2007,81,439,32
+391.,Mirage,Camel,1974,81,221,15
+392.,Nowhere,Ride,1990,81,489,37
+393.,Double Nickels On The Dime,Minutemen,1984,81,462,33
+394.,Horses,Patti Smith,1975,81,885,44
+395.,Somethin' Else,Cannonball Adderley,1958,81,193,8
+396.,Fear,John Cale,1974,81,103,2
+397.,Changesonebowie,David Bowie,1976,81,38,1
+398.,Treasure,Cocteau Twins,1984,81,453,32
+399.,Forty Licks,The Rolling Stones,2002,81,186,7
+400.,Neu! '75,Neu!,1975,81,195,14
+401.,Hosianna Mantra,Popol Vuh,1972,81,182,4
+402.,Things Fall Apart,The Roots,1999,81,214,10
+403.,"Strangeways, Here We Come",The Smiths,1987,81,828,52
+404.,A Tábua De Esmeralda,Jorge Ben,1974,81,122,4
+405.,Musik Von Harmonia,Harmonia,1974,81,31,0
+406.,Band On The Run,Paul McCartney & Wings,1973,81,710,53
+407.,Dig Me Out,Sleater-Kinney,1997,81,174,4
+408.,勝訴ストリップ [Shōso Strip],Shiina Ringo,2000,81,24,0
+409.,A Hard Day's Night,The Beatles,1964,81,1383,90
+410.,Substance,Joy Division,1988,81,303,15
+411.,Crossroads,Eric Clapton,1988,81,28,2
+412.,"Live At The Harlem Square Club, 1963",Sam Cooke,1985,81,114,10
+413.,Twin Peaks,Angelo Badalamenti,1990,81,140,7
+414.,Oscillons From The Anti-Sun,Stereolab,2005,81,17,0
+415.,The Spirit Of Radio: Greatest Hits 1974-1987,Rush,2003,81,50,2
+416.,Welcome To Sky Valley,Kyuss,1994,81,213,12
+417.,Tarot Sport,Fuck Buttons,2009,81,111,2
+418.,Freak Out!,The Mothers of Invention,1966,81,530,29
+419.,Past Masters - Volume One,The Beatles,1988,81,220,6
+420.,The Stranger,Billy Joel,1977,81,607,44
+421.,Photographs & Memories: His Greatest Hits,Jim Croce,1974,81,31,2
+422.,Mascara And Monsters: The Best Of Alice Cooper,Alice Cooper,2001,81,23,1
+423.,Chris Thile & Brad Mehldau,Chris Thile & Brad Mehldau,2017,81,10,0
+424.,Thriller,Michael Jackson,1982,81,1618,109
+425.,The Head On The Door,The Cure,1985,81,514,32
+426.,Strawberry Jam,Animal Collective,2007,81,601,39
+427.,My Aim Is True,Elvis Costello,1977,81,533,30
+428.,Musick To Play In The Dark,Coil,1999,81,24,1
+429.,The Essential Clash,The Clash,2003,81,24,0
+430.,Black Messiah,D'Angelo And The Vanguard,2014,81,352,15
+431.,Layla And Other Assorted Love Songs,Derek & The Dominos,1970,81,726,47
+432.,Chairs Missing,Wire,1978,81,306,12
+433.,The Ultimate Experience,Jimi Hendrix,1993,81,88,2
+434.,Ram,Paul & Linda McCartney,1971,81,473,38
+435.,It's Too Late To Stop Now,Van Morrison,1974,81,100,5
+436.,The Complete Bitches Brew Sessions,Miles Davis,1998,81,11,2
+437.,The Noise Made By People,Broadcast,2000,81,63,2
+438.,"Il Buono, Il Brutto, Il Cattivo [The Good, The Bad & The Ugly]",Ennio Morricone,1966,81,153,4
+439.,Greatest Hits,Bruce Springsteen,1995,81,61,10
+440.,"Lola Versus Powerman And The Moneygoround, Part One",The Kinks,1970,81,331,23
+441.,Emergency & I,The Dismemberment Plan,1999,81,367,29
+442.,The Best Of 1980-1990,U2,1998,81,130,7
+443.,Lust For Life,Iggy Pop,1977,81,498,40
+444.,Neu!,Neu!,1972,81,333,17
+445.,White Blood Cells,The White Stripes,2001,81,1090,58
+446.,Tommy,The Who,1969,81,1131,66
+447.,The Shape Of Jazz To Come,Ornette Coleman,1959,81,354,18
+448.,The Best Of The Doors,The Doors,1985,81,118,3
+449.,Cosmic Interception,Von Lmo,1994,81,12,0
+450.,Djangology,Django Reinhardt,2005,81,44,4
+451.,Can't Buy A Thrill,Steely Dan,1972,81,379,23
+452.,Brilliant Corners,Thelonious Monk,1957,81,252,5
+453.,At Fillmore East,The Allman Brothers Band,1971,81,565,31
+454.,Larks' Tongues In Aspic,King Crimson,1973,81,372,15
+455.,B'Boom,King Crimson,1995,81,18,0
+456.,The Best Of David Bowie 1969/1974,David Bowie,1997,81,42,1
+457.,Live At Massey Hall 1971,Neil Young,2007,81,199,11
+458.,Singles,The Smiths,1995,81,132,2
+459.,1979–1983,Bauhaus,1985,81,13,2
+460.,Graceland,Paul Simon,1986,81,1002,56
+461.,Music From Big Pink,The Band,1968,81,720,32
+462.,Rocket To Russia,Ramones,1977,81,437,22
+463.,Person Pitch,Panda Bear,2007,81,506,35
+464.,Post,Björk,1995,81,744,35
+465.,Lanquidity,Sun Ra,1978,81,60,2
+466.,The Complete Recordings,Robert Johnson,1990,81,199,12
+467.,Tigermilk,Belle And Sebastian,1996,81,412,22
+468.,The Best Of David Bowie 1974/1979,David Bowie,1998,81,39,1
+469.,In The Land Of Grey And Pink,Caravan,1971,81,193,17
+470.,Bloom,Beach House,2012,81,827,80
+471.,Ashes Are Burning,Renaissance,1973,81,47,1
+472.,Jar Of Flies,Alice In Chains,1994,81,415,28
+473.,Desire,Bob Dylan,1976,81,705,40
+474.,Entertainment!,Gang Of Four,1979,81,538,32
+475.,Odelay,Beck,1996,81,1015,44
+476.,Document,R.E.M.,1987,81,651,38
+477.,Demon Days,Gorillaz,2005,81,1243,75
+478.,Nothing Has Changed,David Bowie,2014,81,40,3
+479.,Before And After Science,Brian Eno,1977,81,307,15
+480.,Meaty Beaty Big And Bouncy,The Who,1971,81,111,8
+481.,A Ghost Is Born,Wilco,2004,81,381,32
+482.,Ga Ga Ga Ga Ga,Spoon,2007,81,398,21
+483.,Cornell 5/8/77,Grateful Dead,2017,81,15,2
+484.,Closing Time,Tom Waits,1973,81,396,23
+485.,Permanent Waves,Rush,1980,81,413,21
+486.,Young Team,Mogwai,1997,81,354,13
+487.,Dirt,Alice In Chains,1992,81,797,40
+488.,Birth Of The Cool,Miles Davis,1957,81,319,9
+489.,Clube Da Esquina,Milton Nascimento/Lô Borges,1972,81,180,11
+490.,Sinatra Reprise: The Very Good Years,Frank Sinatra,1991,81,16,1
+491.,I Want To See The Bright Lights Tonight,Richard & Linda Thompson,1974,81,216,7
+492.,Twin Fantasy (Mirror To Mirror),Car Seat Headrest,2011,81,139,9
+493.,Join The Dots: B-Sides And Rarities 1978-2001,The Cure,2004,81,11,0
+494.,The Seer,Swans,2012,81,498,39
+495.,Help!,The Beatles,1965,81,1417,88
+496.,Let Love In,Nick Cave And The Bad Seeds,1994,81,325,13
+497.,Journey In Satchidananda,Alice Coltrane,1971,81,95,6
+498.,Scary Monsters (And Super Creeps),David Bowie,1980,81,762,42
+499.,The Essential Simon And Garfunkel,Simon And Garfunkel,2003,81,34,0
+500.,Currents,Tame Impala,2015,81,941,86
+501.,"As Falls Wichita, So Falls Wichita Falls",Pat Metheny & Lyle Mays,1981,81,18,0
+502.,The Very Best Of The Jam,The Jam,1997,81,18,0
+503.,My Favorite Things,John Coltrane,1961,81,326,6
+504.,"I Love You, Honeybear",Father John Misty,2015,81,687,55
+505.,Greatest Hits 1977–1990,The Stranglers,1990,81,29,1
+506.,Have You In My Wilderness,Julia Holter,2015,81,295,20
+507.,Tim,The Replacements,1985,81,395,31
+508.,(What's The Story) Morning Glory?,Oasis,1995,81,1957,185
+509.,Mount Eerie,The Microphones,2003,81,131,4
+510.,Hundred Year Hall,Grateful Dead,1995,81,12,1
+511.,"Dick's Picks, Vol. 1: Tampa Florida 12/19/73",Grateful Dead,1993,81,12,1
+512.,Sister,Sonic Youth,1987,81,471,35
+513.,Ferris Wheel On Fire,Neutral Milk Hotel,2011,81,102,6
+514.,Stand!,Sly & The Family Stone,1969,81,368,14
+515.,Led Zeppelin (Box Set),Led Zeppelin,1990,81,41,2
+516.,Pieces Of A Man,Gil Scott-Heron,1971,81,94,1
+517.,Eat A Peach,The Allman Brothers Band,1972,81,267,11
+518.,Head Hunters,Herbie Hancock,1973,81,331,18
+519.,The Glasgow School,Orange Juice,2005,81,19,2
+520.,Moon Safari,Air,1998,81,748,43
+521.,The Good Son,Nick Cave And The Bad Seeds,1990,81,257,13
+522.,Saturation,Brockhampton,2017,81,316,25
+523.,Hemispheres,Rush,1978,81,403,22
+524.,Nina Simone Sings The Blues,Nina Simone,1967,81,82,2
+525.,TA13OO,Denzel Curry,2018,81,115,7
+526.,Every Breath You Take: The Singles,The Police,1986,81,52,4
+527.,(No Pussyfooting),Fripp & Eno,1973,81,51,1
+528.,Gold,ABBA,1992,81,181,13
+529.,"Crosby, Stills & Nash","Crosby, Stills & Nash",1969,81,462,21
+530.,Carrie & Lowell Live,Sufjan Stevens,2017,81,90,6
+531.,Saxophone Colossus,Sonny Rollins,1956,81,255,8
+532.,Minor Threat (EP),Minor Threat,1981,81,22,0
+533.,Fresh Fruit For Rotting Vegetables,Dead Kennedys,1980,81,536,33
+534.,Twin Peaks - Music From The Limited Event Series,Various Artists,2017,81,15,1
+535.,Crime Of The Century,Supertramp,1974,81,552,35
+536.,On The Corner,Miles Davis,1972,81,220,11
+537.,Fugazi,Fugazi,1988,81,35,1
+538.,Vol 4,Black Sabbath,1972,81,425,20
+539.,Rotten Apples,The Smashing Pumpkins,2001,81,86,1
+540.,"Stories From The City, Stories From The Sea",P.J. Harvey,2000,81,636,29
+541.,Parallel Lines,Blondie,1978,81,683,43
+542.,Tapestry,Carole King,1971,81,669,29
+543.,Singles Going Steady,Buzzcocks,1979,81,252,17
+544.,Fragments Of A Rainy Season,John Cale,1992,81,35,0
+545.,Rubycon,Tangerine Dream,1975,81,107,3
+546.,The Original 1928 Recordings,Mississippi John Hurt,1971,81,16,0
+547.,Seven Swans,Sufjan Stevens,2004,81,341,18
+548.,Les Bains Douches 18 December 1979,Joy Division,2001,81,37,3
+549.,American IV: The Man Comes Around,Johnny Cash,2002,81,376,20
+550.,Live Rust,Neil Young And Crazy Horse,1979,81,262,6
+551.,Skylarking,XTC,1986,81,438,30
+552.,Let's Get It On,Marvin Gaye,1973,81,345,17
+553.,Deathconsciousness,Have A Nice Life,2008,81,248,16
+554.,Dopethrone,Electric Wizard,2000,81,193,20
+555.,Geogaddi,Boards Of Canada,2002,81,315,22
+556.,Let My Children Hear Music,Charles Mingus,1972,81,74,3
+557.,A I A : Alien Observer,Grouper,2011,81,54,3
+558.,Mm.. Food,MF DOOM,2004,81,199,9
+559.,Painful,Yo La Tengo,1993,81,179,7
+560.,Garcia,Jerry Garcia,1972,81,19,2
+561.,cLOUDDEAD,cLOUDDEAD,2001,81,73,4
+562.,Have One On Me,Joanna Newsom,2010,81,371,33
+563.,Pastel Blues,Nina Simone,1965,81,174,7
+564.,Donuts,J Dilla,2006,81,311,14
+565.,Michigan,Sufjan Stevens,2003,81,362,24
+566.,Mothership Connection,Parliament,1975,81,310,20
+567.,The Sound Of The Smiths,The Smiths,2008,81,155,4
+568.,Press Color,Lizzy Mercier Descloux,1979,81,28,4
+569.,The Disintegration Loops,William Basinski,2012,81,95,5
+570.,DAMN.,Kendrick Lamar,2017,81,821,119
+571.,Youth Of America,Wipers,1981,81,135,7
+572.,Greatest Hits,Cat Stevens,1975,81,35,1
+573.,Rated R,Queens Of The Stone Age,2000,81,639,24
+574.,Deserter's Songs,Mercury Rev,1998,81,372,21
+575.,Program Music I,Kashiwa Daisuke,2007,81,30,0
+576.,加爾基 精液 栗ノ花 [Karuki Samen Kuri No Hana],Shiina Ringo,2003,81,30,1
+577.,The Slider,T. Rex,1972,81,285,12
+578.,Catch A Fire,The Wailers,1973,81,319,9
+579.,Artaud,Pescado Rabioso,1973,81,144,11
+580.,Any Other City,Life Without Buildings,2001,81,47,1
+581.,Live At Monterey,The Jimi Hendrix Experience,2007,81,31,1
+582.,Innerspeaker,Tame Impala,2010,81,771,44
+583.,Disraeli Gears,Cream,1967,81,878,50
+584.,Someone To Drive You Home,The Long Blondes,2006,81,23,2
+585.,Surrealistic Pillow,Jefferson Airplane,1967,81,657,48
+586.,Nursery Cryme,Genesis,1971,81,369,21
+587.,Made In Japan,Deep Purple,1972,81,312,14
+588.,Little Girl Blue,Nina Simone,1958,81,103,3
+589.,Blue Lines,Massive Attack,1991,81,689,37
+590.,Emperor Tomato Ketchup,Stereolab,1996,81,212,2
+591.,Sounds Of Summer: The Very Best Of The Beach Boys,The Beach Boys,2003,81,36,3
+592.,Bottomless Pit,Death Grips,2016,81,308,17
+593.,American Football,American Football,1999,81,298,18
+594.,"Joe's Garage Act I, II & III",Frank Zappa,1987,81,79,2
+595.,Third,Portishead,2008,81,630,31
+596.,The Very Best Of The Doors,The Doors,2007,81,109,1
+597.,Remember The Future,Nektar,1973,81,54,3
+598.,Third,Soft Machine,1970,81,261,16
+599.,Ready To Die,The Notorious B.I.G.,1994,81,578,18
+600.,Greatest Hits 1970-2002,Elton John,2002,81,84,8
+601.,Deadwing,Porcupine Tree,2005,81,296,16
+602.,Saint Dominic's Preview,Van Morrison,1972,81,173,8
+603.,Faust So Far,Faust,1972,81,68,2
+604.,20 All-Time Greatest Hits!,James Brown,1991,81,58,8
+605.,Hammersmith Odeon London '75,Bruce Springsteen & The E Street Band,2006,81,70,4
+606.,Elv1s: 30 #1 Hits,Elvis Presley,2002,81,79,6
+607.,Berlin,Lou Reed,1973,81,471,29
+608.,Azra,Azra,1980,80,10,1
+609.,Superfly,Curtis Mayfield,1972,80,395,14
+610.,Pawn Hearts,Van Der Graaf Generator,1971,80,176,7
+611.,Hand. Cannot. Erase.,Steven Wilson,2015,80,279,35
+612.,Goo,Sonic Youth,1990,80,543,29
+613.,For Your Pleasure,Roxy Music,1973,80,465,19
+614.,Live/1975-85,Bruce Springsteen & The E Street Band,1986,80,168,8
+615.,King Of The Delta Blues Singers,Robert Johnson,1961,80,312,18
+616.,Some Girls,The Rolling Stones,1978,80,692,34
+617.,Karma,Pharoah Sanders,1969,80,191,10
+618.,7,Beach House,2018,80,369,54
+619.,Tea For The Tillerman,Cat Stevens,1970,80,485,19
+620.,69 Love Songs,The Magnetic Fields,1999,80,462,42
+621.,Radio City,Big Star,1974,80,310,14
+622.,Superunknown,Soundgarden,1994,80,885,62
+623.,Something/Anything?,Todd Rundgren,1972,80,213,17
+624.,We're Here Because We're Here,Anathema,2010,80,45,2
+625.,The Ultimate Collection,The Kinks,2002,80,43,3
+626.,The Infamous...,Mobb Deep,1995,80,222,14
+627.,Apostrophe ' / Overnite Sensation,Frank Zappa,1986,80,33,0
+628.,Townes Van Zandt,Townes Van Zandt,1969,80,146,4
+629.,Chutes Too Narrow,The Shins,2003,80,623,36
+630.,Complete Discography,Minor Threat,1989,80,90,3
+631.,Eureka,Jim O'Rourke,1999,80,82,7
+632.,Agharta,Miles Davis,1975,80,35,0
+633.,The Lord Of The Rings: The Two Towers,Howard Shore,2002,80,24,1
+634.,The Cars,The Cars,1978,80,536,43
+635.,Yeti,Amon Düül II,1970,80,143,5
+636.,The Pet Sounds Sessions,The Beach Boys,1997,80,59,3
+637.,New Plastic Ideas,Unwound,1994,80,26,0
+638.,Divers,Joanna Newsom,2015,80,265,17
+639.,Live/Dead,Grateful Dead,1969,80,193,7
+640.,Sabbath Bloody Sabbath,Black Sabbath,1973,80,469,21
+641.,Goodbye Yellow Brick Road,Elton John,1973,80,823,61
+642.,Children Of God,Swans,1987,80,184,4
+643.,The Devil And God Are Raging Inside Me,Brand New,2006,80,442,33
+644.,Sign 'O' The Times,Prince,1987,80,652,38
+645.,Ænima,Tool,1996,80,695,48
+646.,2012 - 2017,Against All Logic,2018,80,231,22
+647.,Scenery,Ryo Fukui,1976,80,41,0
+648.,Fleetwood Mac (1975),Fleetwood Mac,1975,80,410,35
+649.,Stratosfear,Tangerine Dream,1976,80,79,0
+650.,Kimono My House,Sparks,1974,80,185,10
+651.,The World Won't Listen,The Smiths,1987,80,147,10
+652.,The Real McCoy,McCoy Tyner,1967,80,42,2
+653.,Cartola (1976),Cartola,1976,80,42,1
+654.,The Idiot,Iggy Pop,1977,80,372,22
+655.,Lennon Legend,John Lennon,1997,80,94,3
+656.,The Divine Wings Of Tragedy,Symphony X,1997,80,17,0
+657.,Novo Aeon,Raul Seixas,1975,80,16,1
+658.,I Never Loved A Man The Way I Love You,Aretha Franklin,1967,80,402,15
+659.,American Beauty,Grateful Dead,1970,80,616,34
+660.,Nonagon Infinity,King Gizzard & The Lizard Wizard,2016,80,248,15
+661.,Safe As Milk,Captain Beefheart And His Magic Band,1967,80,463,28
+662.,Rising,Rainbow,1976,80,243,18
+663.,Os Mutantes,Os Mutantes,1968,80,217,7
+664.,Chocolate And Cheese,Ween,1994,80,151,6
+665.,Airbag / How Am I Driving?,Radiohead,1998,80,168,10
+666.,Sunflower / Surf's Up,The Beach Boys,2000,80,20,1
+667.,Birds Of Fire,Mahavishnu Orchestra,1973,80,128,4
+668.,Tutti Morimmo A Stento,Fabrizio De André,1968,80,21,0
+669.,Lateralus,Tool,2001,80,734,56
+670.,'Round About Midnight,Miles Davis,1957,80,195,2
+671.,Mutantes,Os Mutantes,1969,80,52,2
+672.,Ship Ahoy,The O'Jays,1973,80,21,1
+673.,Discipline,King Crimson,1981,80,355,13
+674.,Transa,Caetano Veloso,1972,80,100,3
+675.,The Disintegration Loops II,William Basinski,2003,80,39,3
+676.,The Stooges,The Stooges,1969,80,553,28
+677.,Let It Be,The Beatles,1970,80,1573,88
+678.,Coming From Reality,Rodriguez,1971,80,56,4
+679.,Deep Purple In Rock,Deep Purple,1970,80,459,24
+680.,Bob Dylan's Greatest Hits,Bob Dylan,1967,80,143,7
+681.,Melodrama,Lorde,2017,80,472,45
+682.,At Carnegie Hall,Thelonious Monk Quartet with John Coltrane,2005,80,25,0
+683.,Vision Creation Newsun,Boredoms,1999,80,184,13
+684.,Breakfast In America,Supertramp,1979,80,540,40
+685.,The Best Of Van Morrison,Van Morrison,1990,80,61,4
+686.,From A Basement On The Hill,Elliott Smith,2004,80,227,9
+687.,E2-E4,Manuel Göttsching,1984,80,83,5
+688.,Suburban Light,The Clientele,2000,80,46,3
+689.,Exmilitary,Death Grips,2011,80,331,21
+690.,When The Pawn...,Fiona Apple,1999,80,295,13
+691.,The Who Sell Out,The Who,1967,80,635,42
+692.,In A Beautiful Place Out In The Country,Boards Of Canada,2000,80,103,5
+693.,Twin Cinema,The New Pornographers,2005,80,165,9
+694.,"Greatest Hits I, II & III - The Platinum Collection",Queen,2000,80,129,4
+695.,Speak No Evil,Wayne Shorter,1966,80,111,2
+696.,We're Only In It For The Money,The Mothers of Invention,1968,80,497,35
+697.,"Never Mind The Bollocks, Here's The Sex Pistols",Sex Pistols,1977,80,1456,115
+698.,Apollo: Atmospheres And Soundtracks,Brian Eno,1983,80,155,7
+699.,Killer,Alice Cooper,1971,80,157,8
+700.,Achtung Baby,U2,1991,80,1442,116
+701.,Halloween Soundtrack,John Carpenter,1978,80,11,1
+702.,Live At Budokan,Dream Theater,2004,80,11,0
+703.,Sea Change,Beck,2002,80,758,45
+704.,Ramones,Ramones,1976,80,983,80
+705.,Greatest Hits,Foo Fighters,2009,80,80,4
+706.,Bodysong,Jonny Greenwood,2003,80,12,1
+707.,Greatest Hits,Red Hot Chili Peppers,2003,80,107,2
+708.,No Remorse,Motörhead,1984,80,14,0
+709.,Greatest Hits,The Band,2000,80,13,0
+710.,Wide Awake!,Parquet Courts,2018,80,201,11
+711.,2112,Rush,1976,80,720,48
+712.,Concert,The Cure,1984,80,39,2
+713.,The Very Best Of Prince,Prince,2001,80,40,0
+714.,Joy As An Act Of Resistance.,Idles,2018,80,114,11
+715.,Good News For People Who Love Bad News,Modest Mouse,2004,80,747,37
+716.,Jesus Christ Superstar [Original Concept Recording],Andrew Lloyd Webber & Tim Rice,1970,80,41,7
+717.,A Charlie Brown Christmas,Vince Guaraldi,1965,80,149,8
+718.,Cosmogramma,Flying Lotus,2010,80,413,19
+719.,Ambient 1: Music For Airports,Brian Eno,1978,80,403,21
+720.,Ellington At Newport,Duke Ellington,1956,80,127,5
+721.,Greatest Hits,Bob Seger & The Silver Bullet Band,1994,80,17,1
+722.,Talking Book,Stevie Wonder,1972,80,459,13
+723.,Raise,Swervedriver,1991,80,45,5
+724.,Nefertiti,Miles Davis,1968,80,75,2
+725.,Si On Avait Besoin D'Une Cinquième Saison,Harmonium,1975,80,103,5
+726.,Pornography,The Cure,1982,80,648,40
+727.,In A Glass House,Gentle Giant,1973,80,78,5
+728.,"Bon Iver, Bon Iver",Bon Iver,2011,80,1044,89
+729.,Slowdive,Slowdive,2017,80,408,38
+730.,"Ahh... The Name Is Bootsy, Baby!",Bootsy Collins,1977,80,22,0
+731.,ATLiens,OutKast,1996,80,298,16
+732.,Glassworks,Philip Glass,1982,80,92,5
+733.,The Very Best Of Otis Redding,Otis Redding,1992,80,59,5
+734.,Songs For A Blue Guitar,Red House Painters,1996,80,98,15
+735.,The Sunset Tree,The Mountain Goats,2005,80,145,5
+736.,The Mountain,Haken,2013,80,31,1
+737.,Desertshore,Nico,1970,80,194,7
+738.,La Ley Innata,Extremoduro,2008,80,34,7
+739.,2,Mac DeMarco,2012,80,373,9
+740.,Germfree Adolescents,X-Ray Spex,1978,80,123,7
+741.,Phaedra,Tangerine Dream,1974,80,215,12
+742.,Snap!,The Jam,1983,80,80,7
+743.,In The Wee Small Hours,Frank Sinatra,1955,80,448,26
+744.,Face To Face,The Kinks,1966,80,330,16
+745.,No Other,Gene Clark,1974,80,137,7
+746.,Chronicles,Rush,1990,80,40,1
+747.,Small Talk At 125th And Lenox,Gil Scott-Heron,1970,80,41,2
+748.,Broken Dreams Club,Girls,2010,80,43,5
+749.,Chet,Chet Baker,1959,80,44,1
+750.,untitled unmastered.,Kendrick Lamar,2016,80,614,39
+751.,Parklife,Blur,1994,80,1068,58
+752.,A Crow Looked At Me,Mount Eerie,2017,80,415,46
+753.,Alien Lanes,Guided By Voices,1995,80,176,6
+754.,Caravanserai,Santana,1972,80,115,6
+755.,Black On Both Sides,Mos Def,1999,80,250,10
+756.,White Pony,Deftones,2000,80,322,23
+757.,Gentleman,Fela Kuti & Africa 70,1973,80,60,3
+758.,Feels,Animal Collective,2005,80,443,27
+759.,Zombie,Fela Kuti & Africa 70,1976,80,168,12
+760.,Push Barman To Open Old Wounds,Belle And Sebastian,2005,80,81,5
+761.,Songs From A Room,Leonard Cohen,1969,80,268,10
+762.,The Argument,Fugazi,2001,80,177,8
+763.,Ladies Of The Canyon,Joni Mitchell,1970,80,177,9
+764.,Seasons In The Abyss,Slayer,1990,80,186,4
+765.,Jackson C. Frank,Jackson C. Frank,1965,80,98,3
+766.,Being There,Wilco,1996,80,322,16
+767.,There's Nothing Wrong With Love,Built To Spill,1994,80,224,15
+768.,Tabula Rasa,Arvo Pärt,1984,80,120,6
+769.,Isn't Anything,My Bloody Valentine,1988,80,508,34
+770.,The Basement Tapes,Bob Dylan & The Band,1975,80,263,11
+771.,Santana,Santana,1969,80,267,10
+772.,One Size Fits All,Frank Zappa,1975,80,163,11
+773.,Zuma,Neil Young And Crazy Horse,1975,80,358,12
+774.,You Are Free,Cat Power,2003,80,179,6
+775.,The Last Waltz,The Band,1978,80,200,7
+776.,Absolutely Free,The Mothers of Invention,1967,80,216,6
+777.,Liege And Lief,Fairport Convention,1969,80,224,9
+778.,The Times They Are A-Changin',Bob Dylan,1964,80,692,30
+779.,Microcastle,Deerhunter,2008,80,364,18
+780.,Alligator,The National,2005,80,571,25
+781.,Dopesmoker,Sleep,2003,80,104,9
+782.,Cold Fact,Rodriguez,1970,80,163,11
+783.,Vaudeville Villain,Viktor Vaughn,2003,80,80,4
+784.,We Sold Our Soul For Rock 'n' Roll,Black Sabbath,1975,80,69,2
+785.,Buena Vista Social Club,Buena Vista Social Club,1997,80,326,17
+786.,Buffalo Springfield Again,Buffalo Springfield,1967,80,211,12
+787.,154,Wire,1979,80,207,6
+788.,Deadringer,RJD2,2002,80,50,0
+789.,Caetano Veloso (1969),Caetano Veloso,1969,80,37,0
+790.,...For The Whole World To See,Death (Protopunk),2009,80,44,3
+791.,The Very Best Of Elvis Costello,Elvis Costello,1999,80,34,1
+792.,Ask Me No Questions,Bridget St. John,1969,80,28,1
+793.,Platinum Collection,Genesis,2004,80,28,0
+794.,Live At Ronnie Scott's,Jeff Beck,2008,80,23,1
+795.,"You Can't Do That On Stage Anymore, Vol. 2 - The Helsinki Concert",Frank Zappa,1988,80,21,0
+796.,Previsão Do Tempo,Marcos Valle,1973,80,15,0
+797.,Musica De Fondo MTV Umplugged,Zoé,2011,80,18,0
+798.,Greatest Hits 1972-1978,10cc,1979,80,17,0
+799.,Schindler's List,John Williams,1993,80,14,1
+800.,Bill Fay,Bill Fay,1970,80,13,1
+801.,The Who Hits 50!,The Who,2014,80,12,2
+802.,Time For Heroes: The Best Of The Libertines,The Libertines,2007,80,10,0
+803.,Alone Together,Karriem Riggins,2012,80,10,0
+804.,The Best Of Steely Dan: Then And Now,Steely Dan,1993,80,11,0
+805.,Salad Days,Mac DeMarco,2014,80,629,35
+806.,The ArchAndroid,Janelle Monáe,2010,80,460,30
+807.,The Colour Of Spring,Talk Talk,1986,80,367,19
+808.,Crack The Skye,Mastodon,2009,80,271,12
+809.,Lifes Rich Pageant,R.E.M.,1986,80,525,38
+810.,Vampire Weekend,Vampire Weekend,2008,80,1045,61
+811.,Kindred,Burial,2012,80,176,11
+812.,Lightbulb Sun,Porcupine Tree,2000,80,151,10
+813.,Today,Galaxie 500,1988,80,150,9
+814.,Their Greatest Hits (1971-1975),Eagles,1976,80,143,9
+815.,The Dreaming,Kate Bush,1982,80,478,31
+816.,The Sun Sessions,Elvis Presley,1976,80,226,13
+817.,Armchair Apocrypha,Andrew Bird,2007,80,106,7
+818.,Haha Sound,Broadcast,2003,80,90,3
+819.,Hex Enduction Hour,The Fall,1982,80,179,12
+820.,The Age Of Adz,Sufjan Stevens,2010,80,628,48
+821.,Pretzel Logic,Steely Dan,1974,80,343,17
+822.,Stankonia,OutKast,2000,80,666,32
+823.,Speaking In Tongues,Talking Heads,1983,80,474,20
+824.,Deceit,This Heat,1981,80,148,7
+825.,The Best Of Blondie,Blondie,1981,80,68,4
+826.,Twelve Dreams Of Dr. Sardonicus,Spirit,1970,80,138,8
+827.,Debut,Björk,1993,80,725,36
+828.,The Royal Scam,Steely Dan,1976,80,206,13
+829.,Wowee Zowee,Pavement,1995,80,348,18
+830.,Monk's Dream,Thelonious Monk,1963,80,126,3
+831.,In Absentia,Porcupine Tree,2002,80,411,21
+832.,Computerwelt [Computer World],Kraftwerk,1981,80,345,22
+833.,Live Santa Monica '72,David Bowie,1994,80,49,3
+834.,The Earth Is Not A Cold Dead Place,Explosions In The Sky,2003,80,390,31
+835.,Countdown To Ecstasy,Steely Dan,1973,80,271,13
+836.,Reckoning,R.E.M.,1984,80,459,32
+837.,África Brasil,Jorge Ben,1976,80,93,5
+838.,Pearl,Janis Joplin,1971,80,394,17
+839.,Let England Shake,P.J. Harvey,2011,80,716,47
+840.,"Ptah, The El Daoud",Alice Coltrane,1970,80,36,2
+841.,Come On Pilgrim,Pixies,1987,80,378,12
+842.,BBC Sessions,Led Zeppelin,1997,80,158,5
+843.,None Shall Pass,Aesop Rock,2007,80,32,2
+844.,Live At Rome Olympic Stadium,Muse,2013,80,31,1
+845.,"Damned, Damned, Damned",The Damned,1977,80,152,8
+846.,Rush In Rio,Rush,2003,80,30,1
+847.,Methodrone,The Brian Jonestown Massacre,1995,80,68,2
+848.,Moanin' In The Moonlight,Howlin' Wolf,1959,80,182,8
+849.,Actor,St. Vincent,2009,80,256,12
+850.,Space Ritual,Hawkwind,1973,80,101,5
+851.,TNT,Tortoise,1998,80,213,5
+852.,Funky Kingston,Toots & The Maytals,1972,80,101,4
+853.,Only Built 4 Cuban Linx...,Raekwon,1995,80,247,16
+854.,20 Years Of Jethro Tull,Jethro Tull,1988,80,25,0
+855.,Taking Tiger Mountain (By Strategy),Brian Eno,1974,80,237,5
+856.,Ommadawn,Mike Oldfield,1975,80,164,5
+857.,Bee Thousand,Guided By Voices,1994,80,369,29
+858.,Garbage,Autechre,1995,80,23,2
+859.,Veckatimest,Grizzly Bear,2009,80,649,40
+860.,Tender Prey,Nick Cave And The Bad Seeds,1988,80,220,10
+861.,One Nation Under A Groove,Funkadelic,1978,80,184,6
+862.,Undun,The Roots,2011,80,116,8
+863.,Destroyer's Rubies,Destroyer,2006,80,117,6
+864.,The Inner Mounting Flame,Mahavishnu Orchestra,1971,80,207,9
+865.,The Way Up,Pat Metheny Group,2005,80,19,0
+866.,Live At Reading,Nirvana,2009,80,195,16
+867.,3rd,Big Star,1978,80,333,24
+868.,Breaking Atoms,Main Source,1991,80,46,2
+869.,The Dreadful Hours,My Dying Bride,2001,80,18,1
+870.,NieR:Automata,"岡部啓一 [Keiichi Okabe], 帆足圭吾 [Keigo Hoashi], 高橋邦幸 [Kuniyuki Takahashi] & 瀬尾祥太郎 [Syotarou Seo]",2017,80,17,3
+871.,Anthology 3,The Beatles,1996,80,154,4
+872.,The Idler Wheel Is Wiser Than The Driver Of The Screw And Whipping Cords Will Serve You More Than Ropes Will Ever Do,Fiona Apple,2012,80,529,56
+873.,One Beat,Sleater-Kinney,2002,80,69,0
+874.,Figure 8,Elliott Smith,2000,80,364,12
+875.,Organized Konfusion,Organized Konfusion,1991,80,15,1
+876.,The Milk-Eyed Mender,Joanna Newsom,2004,80,269,14
+877.,Section.80,Kendrick Lamar,2011,80,472,21
+878.,Gilberto Gil (Frevo Rasgado),Gilberto Gil,1968,80,40,1
+879.,Crazy Rhythms,The Feelies,1980,80,316,12
+880.,Sarah Vaughan,Sarah Vaughan,1954,80,85,2
+881.,Morrison Hotel,The Doors,1970,80,620,25
+882.,Quiet Kenny,Kenny Dorham,1959,80,13,0
+883.,Secrets Of The Beehive,David Sylvian,1987,80,129,6
+884.,Fantastic Damage,El-P,2002,80,60,1
+885.,Nothing But Thieves,Nothing But Thieves,2015,80,35,3
+886.,Before The Dawn,Kate Bush,2016,80,35,5
+887.,Pulp Fiction,Various Artists,1994,80,104,8
+888.,The Whole Story,Kate Bush,1986,80,124,8
+889.,The Harder They Come,Various Artists,1972,80,141,12
+890.,This Nation's Saving Grace,The Fall,1985,80,315,17
+891.,The Byrds (Box Set),The Byrds,1990,80,11,0
+892.,Transient Random-Noise Bursts with Announcements,Stereolab,1993,80,158,7
+893.,I See A Darkness,Bonnie 'Prince' Billy,1999,80,282,16
+894.,I'm Your Man,Leonard Cohen,1988,80,259,11
+895.,The Meadowlands,The Wrens,2003,80,178,15
+896.,Re,Café Tacuba,1994,80,92,6
+897.,Workingman's Dead,Grateful Dead,1970,80,316,13
+898.,Garra,Marcos Valle,1971,80,10,0
+899.,Working Class Hero: The Definitive Lennon,John Lennon,2005,80,10,0
+900.,Wave Notation 1: Music For Nine Post Cards,Hiroshi Yoshimura,1982,80,10,0
+901.,The Kick Inside,Kate Bush,1978,80,373,23
+902.,Pithecanthropus Erectus,Charles Mingus,1956,80,170,1
+903.,Elvis Presley,Elvis Presley,1956,80,548,23
+904.,Hey Jude,The Beatles,1970,80,89,3
+905.,Tindersticks,Tindersticks,1993,80,127,12
+906.,Parallelograms,Linda Perhacs,1970,80,66,4
+907.,Psychocandy,The Jesus And Mary Chain,1985,80,689,54
+908.,The Disintegration Loops IV,William Basinski,2003,80,27,0
+909.,Aventine,Agnes Obel,2013,80,46,0
+910.,Reflektor,Arcade Fire,2013,80,1242,155
+911.,The Immaculate Collection,Madonna,1990,80,160,5
+912.,Tous Les Garçons Et Les Filles,Françoise Hardy,1962,80,64,2
+913.,Roxy And Elsewhere,Frank Zappa,1974,80,79,2
+914.,The Modern Dance,Pere Ubu,1978,80,298,16
+915.,Millions Now Living Will Never Die,Tortoise,1996,80,199,6
+916.,Tupelo Honey,Van Morrison,1971,80,180,9
+917.,Amélie,Yann Tiersen,2001,80,109,9
+918.,The Allman Brothers Band,The Allman Brothers Band,1969,80,160,7
+919.,Screamadelica,Primal Scream,1991,80,721,48
+920.,Love It To Death,Alice Cooper,1971,80,158,7
+921.,Spectrum,Billy Cobham,1973,80,56,6
+922.,Suspiria,Goblin,1977,80,23,0
+923.,Moonmadness,Camel,1976,80,155,11
+924.,Once In A Lifetime - The Best Of,Talking Heads,1992,80,23,0
+925.,Silent Shout,The Knife,2006,80,340,17
+926.,Apologies To The Queen Mary,Wolf Parade,2005,80,181,9
+927.,The Very Best Of The Stone Roses,The Stone Roses,2002,80,22,0
+928.,Gita,Raul Seixas,1974,80,21,1
+929.,The Great Twenty-Eight,Chuck Berry,1982,80,254,12
+930.,Sounds Of Silence,Simon And Garfunkel,1966,80,513,20
+931.,The Singles Collection,David Bowie,1993,80,69,0
+932.,The Bees Made Honey In The Lion's Skull,Earth,2008,80,50,1
+933.,Greatest Hits - Volume I & Volume II,Billy Joel,1985,80,80,3
+934.,Damn The Torpedoes,Tom Petty & The Heartbreakers,1979,80,350,27
+935.,The Meters,The Meters,1969,80,34,0
+936.,Sleep Well Beast,The National,2017,80,362,23
+937.,The Singles,The Pretenders,1987,80,32,2
+938.,Racional Vol. 1,Tim Maia,1975,80,32,1
+939.,Song Review: A Greatest Hits Collection,Stevie Wonder,1996,80,18,1
+940.,This Empty Northern Hemisphere,Gregory Alan Isakov,2009,80,18,3
+941.,"Guardians Of The Galaxy: Awesome Mix, Vol. 1",Various Artists,2014,80,18,2
+942.,Citizen,Steely Dan,1993,80,32,0
+943.,Nia,Blackalicious,1999,80,32,1
+944.,Greatest Hits,Sly & The Family Stone,1970,80,144,9
+945.,Fear Of A Blank Planet,Porcupine Tree,2007,80,420,25
+946.,Call Me,Al Green,1973,80,154,12
+947.,Supreme Clientele,Ghostface Killah,2000,80,185,10
+948.,For Girls Who Grow Plump In The Night,Caravan,1973,80,44,1
+949.,Word... Life,O.C.,1994,80,17,3
+950.,Ali Farka Toure (Ten Songs From The Legendary Singer From Mali),Ali Farka Touré,1988,80,17,0
+951.,Broken Machine,Nothing But Thieves,2017,80,30,6
+952.,The Ultimate Collection,The Who,2002,80,30,0
+953.,Lady In Satin,Billie Holiday,1958,80,259,13
+954.,Cookin' With The Miles Davis Quintet,Miles Davis Quintet,1957,80,84,3
+955.,The Hissing Of Summer Lawns,Joni Mitchell,1975,80,254,13
+956.,LP5,Autechre,1998,80,43,1
+957.,Out To Lunch!,Eric Dolphy,1964,80,256,7
+958.,Q: Are We Not Men? A: We Are Devo!,Devo,1978,80,332,20
+959.,The Dock Of The Bay,Otis Redding,1968,80,119,7
+960.,Nebraska,Bruce Springsteen,1982,80,725,34
+961.,In Evening Air,Future Islands,2010,80,41,4
+962.,Shadows On The Sun,Brother Ali,2003,80,15,2
+963.,Anthology 2,The Beatles,1996,80,130,7
+964.,Who Will Cut Our Hair When We're Gone?,The Unicorns,2003,80,216,17
+965.,Live-Evil,Miles Davis,1971,80,89,1
+966.,A Farewell To Kings,Rush,1977,80,352,21
+967.,Force It,UFO,1975,80,38,3
+968.,Arthur Verocai,Arthur Verocai,1972,80,15,0
+969.,EndSerenading,Mineral,1998,80,14,1
+970.,Teenage Hate/Fuck Elvis Here's The Reatards,Reatards,1998,80,14,1
+971.,Fear Of God,The Bats,1991,80,14,0
+972.,A Dança Da Solidão,Paulinho Da Viola,1972,80,14,0
+973.,The Fillmore Concerts,The Allman Brothers Band,1992,80,14,4
+974.,"Spirit They're Gone, Spirit They've Vanished",Avey Tare & Panda Bear,2000,80,234,22
+975.,"Parsley, Sage, Rosemary And Thyme",Simon And Garfunkel,1966,80,444,26
+976.,The Best Of Pink Floyd: A Foot In The Door,Pink Floyd,2011,80,38,1
+977.,Me Against The World,2Pac,1995,80,196,13
+978.,Irrlicht,Klaus Schulze,1972,80,110,7
+979.,Let Them Eat Chaos,Kate Tempest,2016,80,26,3
+980.,Little Dark Age,MGMT,2018,80,459,47
+981.,I'm In Your Mind Fuzz,King Gizzard & The Lizard Wizard,2014,80,95,3
+982.,Van Halen,Van Halen,1978,80,639,50
+983.,Hall Of The Mountain Grill,Hawkwind,1974,80,35,1
+984.,Murder Ballads,Nick Cave And The Bad Seeds,1996,80,345,10
+985.,Time Of The Last Persecution,Bill Fay,1971,80,46,4
+986.,Origin Of Symmetry,Muse,2001,80,1152,70
+987.,The Beach Boys Today!,The Beach Boys,1965,80,384,25
+988.,VU,The Velvet Underground,1985,80,203,16
+989.,13,Blur,1999,80,596,46
+990.,Recurring,Spacemen 3,1990,80,35,2
+991.,Personal Best,Team Dresch,1995,80,12,0
+992.,89/93: An Anthology,Uncle Tupelo,2002,80,12,0
+993.,Within The Realm Of A Dying Sun,Dead Can Dance,1987,80,154,5
+994.,Veedon Fleece,Van Morrison,1974,80,221,13
+995.,Wild Is The Wind,Nina Simone,1966,80,98,3
+996.,South Of Heaven,Slayer,1988,80,161,2
+997.,Stormcock,Roy Harper,1971,80,77,4
+998.,The Legend Of Zelda: Majora's Mask,Koji Kondo,2000,80,11,2
+999.,Blacks And Blues,Bobbi Humphrey,1974,80,11,1
+1000.,Duck Stab,The Residents,1978,80,11,0
