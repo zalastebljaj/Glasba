@@ -34,7 +34,6 @@ for i in range(1, 101):
     vsebina = orodja.vsebina_datoteke('glasba_strani/glasba-{}.html'.format(i))
     for ujemanje_filma in vzorec.finditer(vsebina):
         podatki_filmov.append(pocisti_podatke(ujemanje_filma))
-        #print(pocisti_podatke(ujemanje_filma))
 orodja.zapisi_csv(
     podatki_filmov,
     ['rank', 'naslov', 'avtor', 'leto', 'ocena', 'st_ocen', 'st_komentarjev'],
